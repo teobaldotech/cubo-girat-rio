@@ -6,8 +6,8 @@
       margin: 60px auto;
       border: 3px solid #696416;
       background-color: rgb(226, 43, 150) rgb(202, 110, 202);
-      width: 70px;
-      height: 70px;
+      width: 90px;
+      height: 90px;
       border-radius: 5px;
       background: rgb(223, 233, 186);
 
